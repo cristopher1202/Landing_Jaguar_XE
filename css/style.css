@@ -3,7 +3,11 @@ body{
   float:left;
   font-family: 'Roboto', sans-serif;
   background: url('../images/jaguar-xe.jpg') no-repeat ;
+  background-position: center center;
+  background-attachment: fixed;
+
   background-size: cover;
+
 
 }
  #container{
@@ -55,10 +59,6 @@ body{
     }
 }
 
-@media (max-width: 480px){
-  body{
-    width: 100%;
-    height: 100%;
-  }
+
 
 }
