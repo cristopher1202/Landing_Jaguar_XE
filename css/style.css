@@ -57,7 +57,7 @@ body{
 
 @media (max-width: 480px){
   body{
-    background-size: 600px 100%;
+    background-size: cover;
   }
 
 }
