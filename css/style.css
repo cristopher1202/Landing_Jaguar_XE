@@ -46,7 +46,7 @@ body{
 }
 
 [class*="col-"] {
-    width: 100%;
+    background-size: cover;
 }
 
 @media (max-width:600px) {
