@@ -1,9 +1,10 @@
 
 body{
+  float:left;
   font-family: 'Roboto', sans-serif;
   background: url('../images/jaguar-xe.jpg') no-repeat ;
-  background-size: 100% 100%;
-  float:left;
+  background-size: cover;
+
 }
  #container{
    float: left;
