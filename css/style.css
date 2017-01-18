@@ -45,6 +45,10 @@ body{
 
 }
 
+[class*="col-"] {
+    width: 100%;
+}
+
 @media (max-width:600px) {
   body {
     background-size: 600px 100%;
