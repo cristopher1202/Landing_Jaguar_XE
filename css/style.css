@@ -45,11 +45,11 @@ body{
 
 }
 
-@media (max-width: 480px) {
-    body{
-      background-size: cover;
-    }
- }
+@media (max-width:600px) {
+  body {
+    background-size: 600px 100%;
+  }
+}
 
 @media (min-width:768px) {
     #container{
